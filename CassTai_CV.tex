@@ -1,0 +1,801 @@
+\documentclass[10.5pt,]{article}
+
+\usepackage{multicol} % for multiple columns
+
+
+
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+\ifxetex
+\usepackage{xltxtra,xunicode} %originally, \usepackage{mathspec}. This change is to produce Chinese
+\else
+\usepackage{fontspec}
+\fi
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+	\usepackage{microtype}
+	\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+	\begin{list}{}{
+			\setlength{\leftmargin}{1.5em}
+		}
+	}{
+	\end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+
+\usepackage{ctex}
+% Siyuan Font
+%\setCJKmainfont[BoldFont = Noto Sans CJK SC]{Noto Serif CJK SC}
+%\setCJKsansfont{Noto Sans CJK SC}
+%\setCJKfamilyfont{zhsong}{Noto Serif CJK SC}
+%\setCJKfamilyfont{zhhei}{Noto Sans CJK SC}
+%\setCJKfamilyfont{zhkai}{simkai.ttf}
+
+% less space for the Chinese format
+\titlespacing\section{0pt}{1pt plus 4pt minus 2pt}{1pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{5pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+\newfontfamily\FA{FontAwesome.otf} % Explicitly provide .otf
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+	\cfoot{\scriptsize  Yuehong Cassandra Tai - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+		pdftitle={Yuehong Cassandra Tai:  CV (Curriculum Vitae)},
+			pdfauthor={Yuehong Cassandra Tai},
+			colorlinks=true,
+	linkcolor=blue,
+	citecolor=Blue,
+	urlcolor=blue,
+	breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% try to fit picture
+
+
+\begin{document}
+	
+	
+	\centerline{\huge \bf Yuehong Cassandra Tai}
+	
+	
+	
+	\vspace{2 mm}
+	
+	\hrule
+	
+	\vspace{2 mm}
+	
+	
+	\moveleft.5\hoffset\centerline{425 Susan Welch Liberal Arts Building,
+Pennsylvania State University, University Park, PA 16802}
+	\moveleft.5\hoffset\centerline{ {\FA\faEnvelope} \hspace{1 mm} \href{mailto:}{\tt \href{mailto:yhcasstai@psu.edu}{\nolinkurl{yhcasstai@psu.edu}}} \hspace{1 mm}  {\FA\faGithub} \hspace{1 mm} \href{http://github.com/Tyhcass}{\tt Tyhcass} \hspace{1 mm}    {\FA\faGlobe} \hspace{1 mm} \href{http://cassyuehtai.netlify.app}{\tt cassyuehtai.netlify.app}   }
+	
+	\vspace{2 mm}
+	
+	\hrule
+	
+		
+	\section{ACADEMIC APPOINTMENTS}\label{academic-appointments}
+
+\begin{itemize}
+\tightlist
+\item
+  Pennsylvania State University
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Assistant Research Professor, Center for Social Data Analytics
+    \hfill 2025-
+  \item
+    Assistant Director, Center for Social Data Analytics
+  \item
+    Postdoctoral Scholar, Center for Social Data Analytics
+    \hfill 2022-2024
+  \end{itemize}
+\end{itemize}
+
+\section{EDUCATION}\label{education}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Ph.D.} Program in Political Science, University of Iowa,
+  U.S.A. \hfill 2017-2022
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Fields: Comparative Politics, Political Methodology, American
+    Politics
+  \end{itemize}
+\item
+  \textbf{MSc} in International Political Economy, Nanyang Technological
+  University, Singapore \hfill 2008
+\item
+  \textbf{LL.B.} in Diplomacy, Renmin University of China, China
+  \hfill 2007
+\end{itemize}
+
+\section{RESEARCH AREAS}\label{research-areas}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Political Science}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Digital Politics and Communication, Public Opinion, Chinese
+    Politics.
+  \end{itemize}
+\item
+  \textbf{Computational Social Science}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    GenAI/LLM, NLP/Text-as-data, Bayesian Measurement Models,
+    Statistical Models.
+  \end{itemize}
+\end{itemize}
+
+\section{PUBLICATIONS}\label{publications}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Computational Social Science and Digital Politics}
+
+  \begin{itemize}
+  \item
+    Biswas, Ahana, Yu-ru Lin, Yuehong Cassandra Tai and Bruce A.
+    Desmarais. ``Political Elites in the Attention Economy: Visibility
+    Over Civility and Credibility?'' \emph{Accepted in ICWSM 2025}.
+  \item
+    Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023.
+    ``Oﬀicial Yet Questionable: Examining Misinformation in U.S. State
+    Legislators' Tweets'' \emph{Journal of Information Technology \&
+    Politics}.
+  \end{itemize}
+\item
+  \textbf{Public Opinion and Measurement}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and
+    Frederick Solt. 2024. ``Measuring Tolerance of Homosexuality in the
+    Mass Public Across Countries and Over Time'' \emph{Social Science
+    Quarterly}.
+  \item
+    Hu, Yue, Yuehong Cassandra Tai*, and Frederick Solt. 2024.
+    ``Revisiting the Evidence on Thermostatic Response to Democratic
+    Change: Degrees of Democratic Support or Researcher Degrees of
+    Freedom?'' \emph{Political Science Research and Methods}. {[}*
+    \textbf{co-first author}{]}
+  \item
+    Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022.
+    ``Democracy, Public Support, and Measure- ment Uncertainty''
+    \emph{American Political Science Review}.
+  \end{itemize}
+\item
+  \textbf{Chinese Politics}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tai, Yuehong Cassandra, Jielu Yao and Elise Pizzi. 2022. ``Policy
+    Adoption and Diffusion during the COVID-19 Crisis'' \emph{Journal of
+    Asian Public Policy}.
+  \item
+    Tai, Yuehong Cassandra. 2022. ``Determinants of Chinese Provinces'
+    Responses to the 2018 Vaccine Scandal: Policy Orientation and
+    Neighboring Effect'' \emph{Asian Survey}.
+  \end{itemize}
+\end{itemize}
+
+\section{WORKS IN PROGRESS}\label{works-in-progress}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Under Review}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tai, Yuehong Cassandra, Yu-ru Lin, and Bruce A. Desmarais. ``Public
+    Oﬀicials' Online Sharing of Misinformation: Institutional and
+    Ideological Checks''
+  \item
+    Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer,
+    Bruce A. Desmarais, and Yu-ru Lin. ``GenAI vs.~Human Fact-Checkers:
+    Accurate Ratings, Flawed Rationales''
+  \item
+    Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra
+    Tai. ``Navigating Hate and Anti-Hate Speech: Bridging Large Language
+    Model and Human Expertise in Public Oﬀicials' Online Communication''
+    {[}\textbf{with graduate students}{]}
+  \item
+    Tai, Yuehong Cassandra. ``The Upsides and Downsides of Generalized
+    Trust: The Mediating Effect of Democratic Institutions''
+    {[}\textbf{Revise \& Resubmit}{]}
+  \item
+    Tai, Yuehong Cassandra and Frederick Solt. ``Trust in Civil
+    Servants: A Cross-National Dataset for Public Policy Research,
+    1986--2022''
+  \item
+    Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and
+    Frederick Solt. ``Support for Democ- racy Is Multidimensional: Why
+    Unidimensional Latent Variable Measures of Democratic Support Are
+    Invalid'' {[}\textbf{Revised \& Resubmitted}{]}
+  \item
+    Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and
+    Frederick Solt. ``Macrodiscontent Across Countries''
+  \item
+    Yu,Dong Erico, and Yuehong Cassandra Tai. ``Speak `As Good As Men'?
+    An Empirical Study of Gender Variation in Chinese Courtroom Audio''
+  \end{itemize}
+\item
+  \textbf{Working Paper}
+
+  \begin{itemize}
+  \item
+    \emph{Computational Social Science and Digital Politics}
+  \item
+    ``The Digitally Accountable Public Representation Database:
+    Measuring Online Communication by Federal, State, and Local
+    Oﬀicials'' (with Nitheesha Nakka, Khushi Navin Patni,Sarah Michele
+    Rajt- majer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais)
+    {[}\textbf{Lead Author}{]}
+  \item
+    ``Understanding Asian Hate in State Legislatures: An Electoral
+    Connection'' (with Issac Michael Pollert, Nitheesha Nakka, and
+    Lingyu Jack Fuca) {[}\textbf{Lead Author}{]}
+  \item
+    ``Climate Clash: Fossil Fuel Influence, Public Opinion, and State
+    Legislators' Online Discourse'' (with Xun Cao, Yu-ru Lin and Bruce
+    A. Desmarais) {[}\textbf{Lead Author}{]}
+  \item
+    ``Large Language Models in Social Science: A Literature Review of
+    LLMs and GenAI in Political Science and Communication'' (with Pooja
+    Iyer)
+  \item
+    \emph{Public Opinion}
+  \item
+    ``How Does Public Opinion Affect Climate Change Policies?'' (with
+    Xun Cao and Fred Solt) {[}\textbf{Lead Author}{]}
+  \item
+    ``Dynamic Trust and States' Failure in Public Health: Evidence from
+    a Global Time Series Data''
+  \item
+    ``The Skeptical Public: Trust in the United Nations'' (with Yooneui
+    Kim)
+  \end{itemize}
+\end{itemize}
+
+\section{CONFERENCE PRESENTATIONS}\label{conference-presentations}
+
+\begin{itemize}
+\tightlist
+\item
+  ``The Digitally Accountable Public Representation Database: Measuring
+  Online Communication by Federal, State, and Local Oﬀicials''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (Large) Language Models in Social Science 2024, University of
+    Pennsylvania, PA \hfill Sep 2024
+  \item
+    PolMeth 2024, University of California, Riverside \hfill July 2024
+  \end{itemize}
+\item
+  ``Climate Clash: Fossil Fuel Influence, Public Opinion, and State
+  Legislators' Online Discourse''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    APSA 2024, University of Pennsylvania, Philadelphia \hfill Sep 2024
+  \item
+    Visions in Methodology 2024, Washington University in St.Louis
+    \hfill May 2024
+  \end{itemize}
+\item
+  ``Understanding Asian Hate in State Legislatures: An Electoral
+  Connection''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    State Politics and Policy Conference 2024, University of Virginia
+    \hfill June 2024
+  \end{itemize}
+\item
+  ``The Prevalence of Misinformation in U.S. State Legislators' Facebook
+  Posts''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    American Political Science Association Conference 2023, LA
+    \hfill Sep 2023
+  \end{itemize}
+\item
+  ``Dynamic Trust and States' Failure in Public Health: Evidence from
+  Global Time Series Data''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    American Political Science Association Conference 2023, LA
+    \hfill Aug 2023
+  \end{itemize}
+\item
+  ``The Prevalence of Misinformation in U.S. State Legislators' Facebook
+  Posts''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    State Politics and Policy Conference 2023, University of Pittsburgh
+    \hfill May 2023
+  \end{itemize}
+\item
+  ``How Does Public Opinion Affect Climate Change Policies? Constructing
+  Measures of Climate Change Public Concern and Testing Their Effects on
+  Policy Outputs''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Political Economy and International Relation Workshop, PSU
+    \hfill Mar 2023
+  \end{itemize}
+\item
+  ``The Upsides and Downsides of Generalized Trust: The Mediating Effect
+  of Democratic Institutions and Trust in Implementing Institutions''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Southern Political Science Association Conference \hfill Jan 2023
+  \end{itemize}
+\item
+  ``Democracy, Public Support, and Measurement Uncertainty''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    C-SoDA Brownbag Series \hfill Oct 2022
+  \end{itemize}
+\item
+  ``Examining States' Public Health Failures by Measuring Trust Cross
+  Countries and Over Time''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    C-SoDA Kickoff Poster Presentation \hfill Sep 2022
+  \end{itemize}
+\item
+  ``Dynamic Trust and States' Failure in Public Health: Evidence from a
+  Global Time Series Data''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Midwest Political Science Association Conference \hfill Apr 2022
+  \item
+    Iowa Women Studying Politics (IWSP) Conference \hfill Feb 2022
+  \end{itemize}
+\item
+  ``Policy Burden, Issue Salience, and COVID-19 Policy Adoption in
+  China''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    APSA Chinese Politics Mini-Conference \hfill Oct 2021
+  \end{itemize}
+\item
+  ``Democracy, Public Support, and Measurement Uncertainty''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Joint Quantitative Political Science Conference for Asia and
+    Australasia \hfill Jan 2021
+  \end{itemize}
+\item
+  ``Policy Orientation and Diffusion in Responsive Governance: Responses
+  to the Chinese 2018 Vaccine Scandal.''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Association of Chinese Political Studies Annual Meeting \hfill Nov
+    2020
+  \end{itemize}
+\item
+  ``Who is Influencing Public Opinion during a Public Health Crisis on
+  Social Media in China?''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Southern Political Science Association Conference \hfill  Jan 2020
+  \end{itemize}
+\end{itemize}
+
+\section{TEACHING EXPERIENCE}\label{teaching-experience}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Method Courses}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Instructor, Penn State University}
+  \item
+    PLSC 10: Scientific Study of Politics (Undergraduate Level)
+    \hfill Fall 2024
+  \item
+    Instructor, Penn State University
+  \item
+    PLSC 308: Introduction to Political Research (Undergraduate Level)
+    \hfill Spring 2024
+  \item
+    Instructor, Penn State University
+  \item
+    SoDA 308: Research Design for Social Data Analytics (Undergraduate
+    Level) \hfill Fall 2023
+  \item
+    \textbf{Independent Instructor, University of Iowa}
+  \item
+    Hawkeye Poll (Undergraduate Level) \hfill Spring 2022
+  \item
+    Guided students to design survey questions on both national and
+    local politics, carry out telephone interviews,analyze and interpret
+    data, and write release press and analytical papers.
+  \item
+    \textbf{Teaching Assistant, University of Michigan}
+  \item
+    Bayesian Modeling for the Social Sciences II:Advanced Topics, ICPSR
+    Program, \hfill Summer 2021
+  \item
+    Graded students' assignments with detailed comments and offered
+    one-on-one consultations on students' individual projects.
+  \end{itemize}
+\item
+  \textbf{Invited Talk and Guest Lecture}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Guest Lecturer, University of Massachusetts Amherst}
+  \item
+    Data Analytics and Computational Social Science (Graduate Level)
+    \hfill Fall 2024
+
+    \begin{itemize}
+    \tightlist
+    \item
+      LLMs in social science
+    \end{itemize}
+  \item
+    \textbf{Guest Speaker, Xi'an Jiaotong University, China}
+  \item
+    Summer Speaker Series (Graduate Level) \hfill Summer 2023
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Latent Variable Measurements
+    \end{itemize}
+  \item
+    \textbf{Guest Lecturer, Penn State University}
+  \item
+    Approaches and Issues in Big Social Data (Graduate Level)
+    \hfill Spring 2023
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Measurement
+    \end{itemize}
+  \item
+    \textbf{Guest Lecturer, University of Iowa}
+  \item
+    Advanced Methods Seminar (Graduate Level) \hfill Fall 2021
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Machine Learning
+    \end{itemize}
+  \item
+    Analyzing Political Data (Undergraduate Level) \hfill Spring 2021
+
+    \begin{itemize}
+    \tightlist
+    \item
+      P-Value \& Multiple Regression
+    \end{itemize}
+  \item
+    Public Opinion
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Public Opinion and Democracy \hfill Fall 2021
+    \end{itemize}
+  \item
+    National Security Policy
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cyber Security \hfill March 2020
+    \end{itemize}
+  \item
+    \textbf{Workshop, East China Normal University, Shanghai}
+  \item
+    Introduction to Python (Graduate Level) \hfill Dec 2020
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Web scraping, social media data wrangling and analysis
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Comparative Politics and American Politics Courses}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Teaching Assistant, University of Iowa
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Introduction to Political Behavior \hfill Fall 2019
+    \item
+      Introduction to Comparative Politics \hfill Fall 2018, Spring 2019
+    \item
+      The Presidency \hfill Fall 2017
+    \item
+      Introduction to Comparative Politics (Online Course) \hfill Summer
+      2018,2019
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\section{EXTERNAL AND CAMPUS SERVICE}\label{external-and-campus-service}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Member}: American Political Science Association (sections on
+  Political Methodology), the Midwestern Political Science Association
+  and Association of Chinese Political Science
+\item
+  \textbf{Reviewer}: American Political Science Review, American Journal
+  of Political Science, British Journal of Political Science, Research
+  and Politics, The International Conference on Weblogs and Social Media
+  (ICWSM), International World Wide Web Conference 2025 (WWW2025),
+  Public Opinion Quarterly, Asian Survey, International Journal of
+  Public Opinion Research, International Journal of Comparative
+  Sociology.
+\item
+  \textbf{POLMETH Mailing List Editor}: The Society for Political
+  Methodology. \hfill 2024 -
+\item
+  \textbf{Seed Grant Reviewer}: Center for Social Data Analytics.
+  Pennsylvania State University \hfill 2022, 2023,2024
+\item
+  \textbf{Planning Committee Member}: 16th Postdoctoral Research
+  Symposium. Pennsylvania State University \hfill2023
+\item
+  \textbf{Committee Member}: Post-doctoral Scholar Committee. College of
+  the Liberal Arts, Pennsylvania State University \hfill 2022
+\item
+  \textbf{iPeer Mentor}: iPeer Mentorship Program. International Student
+  and Scholar Services, University of Iowa \hfill 2021
+\item
+  \textbf{Discussant}: Government Transparency in China. Midwest
+  Political Science Association Annual Meeting \hfill Apr 2021
+\item
+  \textbf{Session Chair and Discussant}:Time and Space. Political
+  Science Methodology Conference for Asia and Australasia \hfill  Jan
+  2021
+\item
+  \textbf{Co-Host}:
+  \href{https://clas.uiowa.edu/polisci/Shambaugh-2020Caucus}{\emph{2020
+  Iowa Caucus Conference}}. University of Iowa \hfill Feb 2020
+\item
+  \textbf{Session Chair}: Understanding Polarization, COVID \&
+  Computation and Social Media \& Politics. Politics and Computational
+  Social Science and Political Networks \hfill Aug 2020
+\item
+  \textbf{Discussant}: Chinese Politics. Southern Political Science
+  Association Conference \hfill Jan 2020
+\end{itemize}
+
+\section{AWARDS \& HONORS}\label{awards-honors}
+
+\begin{itemize}
+\tightlist
+\item
+  Nominated to Global Student Awards,University of Iowa \hfill Fall 2021
+\item
+  Finalist for annual ``Thesis Challenge,'' University of Iowa
+  \hfill Fall 2021
+\item
+  Graduate Post-Comp Research Fellowship (\$10,500), University of Iowa
+  \hfill Fall 2021
+\item
+  Graduate College Summer Fellowship (\$5,000), University of Iowa
+  \hfill Summer 2021
+\item
+  Department Research Grant (\$1,000), University of Iowa \hfill Spring
+  2020
+\item
+  GSS Travel Funds (\$1,000), University of Iowa \hfill Spring 2020
+\item
+  Department Research Grant (\$300), University of Iowa \hfill Spring
+  2019
+\item
+  Center for Asian and Pacific Studies Graduate Travel Grant (\$500),
+  University of Iowa \hfill Fall 2019
+\item
+  Department Summer Training Grant (\$2400), University of Iowa
+  \hfill Summer 2018
+\end{itemize}
+
+\section{ADDITIONAL TRAINING AND
+SKILLS}\label{additional-training-and-skills}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Certificate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Certificate in Informatics, The University of Iowa, U.S.A.
+    \hfill 2021
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Programming in Python, Java, and SQL.
+    \end{itemize}
+  \item
+    ICPSR, University of Michigan, Ann Arbor, MI \hfill 2018
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Causal Inference for the Social Sciences \& Multilevel Models II:
+      Advanced Topics.
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Skills}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Analysis \& Programming: R, Stata,Python, Stan,JAGS, SQL, Mplus,
+    Java.
+  \item
+    Application: \LaTeX, Markdown, Git(GitHub).
+  \item
+    Language: English, Chinese (Mandarin)
+  \end{itemize}
+\end{itemize}
+
+\section{REFERENCES}\label{references}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Frederick Solt}, \textbf{Ph.D} \hfill \textbf{Bruce A.
+  Desmarais}, \textbf{Ph.D}
+\item
+  \href{mailto:frederick-solt@uiowa.edu}{\nolinkurl{frederick-solt@uiowa.edu}};
+  (319)335-2340
+  \hfill  \href{mailto:bdesmarais@psu.edu}{\nolinkurl{bdesmarais@psu.edu}};
+  (814) 863-1595,
+\item
+  Professor, University of Iowa \hfill  Professor, Penn State University
+\item
+  \textbf{Xun Cao}, \textbf{Ph.D} \hfill \textbf{Bryce Dietrich},
+  \textbf{Ph.D}
+\item
+  \href{mailto:xuc11@psu.edu}{\nolinkurl{xuc11@psu.edu}}; (814) 865-8749
+  \hfill  \href{mailto:bjdietri@purdue.edu}{\nolinkurl{bjdietri@purdue.edu}};
+  (765) 494-4161
+\item
+  Professor, Penn State University \hfill Associate Professor, Purdue
+  University
+\item
+  \textbf{Elizabeth J. Menninga}, \textbf{Ph.D}
+\item
+  \href{mailto:elizabeth-menninga@uiowa.edu}{\nolinkurl{elizabeth-menninga@uiowa.edu}};
+  (319) 335-3835
+\item
+  Associate Professor,University of Iowa
+\end{itemize}
+	
+			\end{document}
