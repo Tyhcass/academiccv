@@ -58,6 +58,9 @@ Attention Economy: Visibility Over Civility and Credibility?” *Accepted in ICW
   - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
+  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “Support for Democ-
+racy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are
+Invalid” *Accepted at Research & Politics*
   - Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time” *Social Science Quarterly*.
   - Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
   - Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measure-
@@ -81,9 +84,6 @@ Communication” [__with graduate students__]
   - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
 Democratic Institutions” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
-  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. “Support for Democ-
-racy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are
-Invalid” [__Revised & Resubmitted__]
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent
 Across Countries”
   - Yu,Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
