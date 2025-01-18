@@ -58,9 +58,7 @@ Attention Economy: Visibility Over Civility and Credibility?” *Accepted in ICW
   - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “Support for Democ-
-racy Is Multidimensional: Why Unidimensional Latent Variable Measures of Democratic Support Are
-Invalid” *Accepted at Research & Politics*
+  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support” *Accepted at Research & Politics*
   - Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time” *Social Science Quarterly*.
   - Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
   - Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measure-
@@ -75,14 +73,14 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 # WORKS IN PROGRESS
 * __Under Review__
   - Tai, Yuehong Cassandra, Yu-ru Lin, and Bruce A. Desmarais. “Public Oﬀicials’ Online Sharing of
-Misinformation: Institutional and Ideological Checks”
+Misinformation: Institutional and Ideological Checks” [__Revise & Resubmit__]
+  - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
+Democratic Institutions” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru
 Lin. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales”
   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication” [__with graduate students__]
-  - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
-Democratic Institutions” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent
 Across Countries”
