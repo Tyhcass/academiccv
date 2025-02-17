@@ -52,6 +52,7 @@ urlcolor: blue
 # PUBLICATIONS
 
 * __Computational Social Science and Digital Politics__
+  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru Lin. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales” *Accepted in WebSci 2025*.
   - Biswas, Ahana, Yu-ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. “Political Elites in the
 Attention Economy: Visibility Over Civility and Credibility?” *Accepted in ICWSM 2025*.
 
@@ -76,8 +77,6 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 Misinformation: Institutional and Ideological Checks” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
 Democratic Institutions” [__Revise & Resubmit__]
-  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru
-Lin. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales”
   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication” [__with graduate students__]
@@ -105,13 +104,16 @@ Author__]
    + “The Skeptical Public: Trust in the United Nations” (with Yooneui Kim)
      
 # CONFERENCE PRESENTATIONS
+
+- “State Legislators’ Misinformation and the Limits of LLMs’ Evaluative Reasoning”
+  - Information and Misinformation in Elections, California Institute of Technology, CA \hfill Jan 2025
+  
 - “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials”
   - (Large) Language Models in Social Science 2024, University of Pennsylvania, PA \hfill Sep 2024
   - PolMeth 2024, University of California, Riverside \hfill July 2024
 - “Climate Clash: Fossil Fuel Influence, Public Opinion, and State Legislators’ Online Discourse”
   - APSA 2024, University of Pennsylvania, Philadelphia \hfill Sep 2024
   - Visions in Methodology 2024, Washington University in St.Louis \hfill May 2024
-  
 - “Understanding Asian Hate in State Legislatures: An Electoral Connection”
   - State Politics and Policy Conference 2024, University of Virginia \hfill June 2024
   

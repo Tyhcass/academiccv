@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.12)  18 JAN 2025 11:25
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  17 FEB 2025 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CassTai_CV.tex
 (./CassTai_CV.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -185,7 +185,7 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
 Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-12-25 L3 programming layer (loader) 
+Package: expl3 2025-01-18 L3 programming layer (loader) 
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__graphics_track_int=\count288
@@ -257,34 +257,34 @@ File: t3enc.def 2001/12/31 T3 encoding
 \tipasavetokens=\toks26
 \tipachecktokens=\toks27
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2024/12/12 v3.2 Micro-typographical refinements (RS)
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count303
 )
 \MT@toks=\toks28
 \MT@tempbox=\box105
 \MT@count=\count304
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1075.
-LaTeX Info: Redefining \leftprotrusion on input line 1076.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks29
-LaTeX Info: Redefining \rightprotrusion on input line 1095.
-LaTeX Info: Redefining \textls on input line 1437.
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen166
-LaTeX Info: Redefining \microtypecontext on input line 2041.
-LaTeX Info: Redefining \textmicrotypecontext on input line 2058.
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count305
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2024/12/12 v3.2 Definitions specific to xetex (RS)
+File: microtype-xetex.def 2025/02/11 v3.2a Definitions specific to xetex (RS)
 LaTeX Info: Redefining \lsstyle on input line 443.
 LaTeX Info: Redefining \lslig on input line 451.
 \MT@outer@space=\skip56
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2024/12/12 v3.2 microtype main configuration file (RS)
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
 )
-LaTeX Info: Redefining \microtypesetup on input line 3053.
+LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -520,7 +520,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1.005831691832591]"[FontAwesome.otf]/OT:language=dflt;mapping=tex-text;"
 
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and footers
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip67
 \f@nch@offset@elh=\skip68
 \f@nch@offset@erh=\skip69
@@ -537,11 +537,11 @@ Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and footer
 \f@nch@widthR=\skip80
 \@temptokenb=\toks32
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2024/11/24 v2.1d lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2025/01/27 v2.1e lastpage: 2.09 or 2e? (HMM)
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2024/11/24 v2.1d Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2025/01/27 v2.1e Decide which 2e lastpage version to use (HMM)
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2024-11-24 v2.1d Refers to last page's name (HMM; JPG)
+Package: lastpagemodern 2025-01-27 v2.1e Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count326
 ) 
 )) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -861,19 +861,19 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./CassTai_CV.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
+LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `CassTai_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 02D404CC31FA1D075A0E78F4F8C96449;1523.
  ) 
 Here is how much of TeX's memory you used:
- 24045 strings out of 475852
- 471303 string characters out of 5774128
- 896423 words of memory out of 5000000
- 46615 multiletter control sequences out of 15000+600000
+ 24081 strings out of 475846
+ 471904 string characters out of 5773966
+ 897336 words of memory out of 5000000
+ 46657 multiletter control sequences out of 15000+600000
  568373 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 94i,11n,143p,1199b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,134p,1199b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CassTai_CV.pdf (6 pages).
