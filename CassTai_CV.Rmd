@@ -77,13 +77,13 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 Misinformation: Institutional and Ideological Checks” [__Revised & Resubmitted__]
   - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
 Democratic Institutions” [__Revise & Resubmit__]
-  - “The Digitally Accountable Public Representation Database: Measuring Online Communication by
-Federal, State, and Local Oﬀicials” (with Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajt-
-majer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais) [__Lead Author__]
+  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajt-
+majer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
+Federal, State, and Local Oﬀicials” 
+  - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020”
   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication” [__with graduate students__]
-  - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020”
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent
 Across Countries”
@@ -97,7 +97,6 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - “Climate Clash: Fossil Fuel Influence, Public Opinion, and State Legislators’ Online Discourse” (with Xun Cao, Yu-ru Lin and Bruce A. Desmarais) [__Lead Author__]
    - “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political
 Science and Communication” (with Pooja Iyer)
-  
   - *Public Opinion*
    + “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead
 Author__]
