@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.17)  17 FEB 2025 09:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.25)  5 APR 2025 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,12 +868,12 @@ Package rerunfilecheck Info: File `CassTai_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 02D404CC31FA1D075A0E78F4F8C96449;1523.
  ) 
 Here is how much of TeX's memory you used:
- 24081 strings out of 475846
- 471904 string characters out of 5773966
- 897336 words of memory out of 5000000
- 46657 multiletter control sequences out of 15000+600000
+ 24081 strings out of 475848
+ 471904 string characters out of 5774183
+ 897276 words of memory out of 5000000
+ 46656 multiletter control sequences out of 15000+600000
  568373 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 94i,11n,134p,1199b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,134p,1199b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CassTai_CV.pdf (6 pages).
