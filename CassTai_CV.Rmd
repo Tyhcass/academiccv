@@ -76,32 +76,29 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
   - Tai, Yuehong Cassandra, Yu-ru Lin, and Bruce A. Desmarais. “Public Oﬀicials’ Online Sharing of
 Misinformation: Institutional and Ideological Checks” [__Revised & Resubmitted__]
   - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
-Democratic Institutions” [__Revise & Resubmit__]
-  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajt-
-majer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
+Democratic Institutions” [__Revised & Resubmitted__]
+  - Yu,Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
+Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
+  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajtmajer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
 Federal, State, and Local Oﬀicials” 
   - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 116 Countries, 1973–2020”
   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication” [__with graduate students__]
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
+  - Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent
 Across Countries”
-  - Yu,Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
-Variation in Chinese Courtroom Audio” 
 
 * __Working Paper__
   - *Computational Social Science and Digital Politics*
    - “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
 Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - “Climate Clash: Fossil Fuel Influence, Public Opinion, and State Legislators’ Online Discourse” (with Xun Cao, Yu-ru Lin and Bruce A. Desmarais) [__Lead Author__]
-   - “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political
-Science and Communication” (with Pooja Iyer)
+   - “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
   - *Public Opinion*
-   + “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead
-Author__]
+   + “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
    + “Dynamic Trust and States’ Failure in Public Health: Evidence from a Global Time Series Data”
-   + “The Skeptical Public: Trust in the United Nations” (with Yooneui Kim)
      
 # CONFERENCE PRESENTATIONS
 
