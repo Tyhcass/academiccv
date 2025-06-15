@@ -52,7 +52,7 @@ urlcolor: blue
 # PUBLICATIONS
 
 * __Computational Social Science and Digital Politics__
-  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru Lin. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales” *Accepted at WebSci 2025*.
+  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru Lin. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales” in *Proceedings of the 17th ACM Web Science Conference 2025*.
    - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
@@ -62,8 +62,10 @@ Attention Economy: Visibility Over Civility and Credibility?” *Accepted at ICW
   - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support” *Accepted at Research & Politics*
-  - Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Measuring Tolerance of Homosexuality in the Mass Public Across Countries and Over Time” *Social Science Quarterly*.
+  - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
+  Democratic Institutions” *Accepted at International Journal of Public Opinion Research*.
+  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support” *Research & Politics*.
+  - Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
   - Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
   - Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measure-
 ment Uncertainty” *American Political Science Review*.
@@ -78,8 +80,6 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 * __Under Review__
   - Tai, Yuehong Cassandra, Yu-ru Lin, and Bruce A. Desmarais. “Public Oﬀicials’ Online Sharing of
 Misinformation: Institutional and Ideological Checks” [__Revised & Resubmitted__]
-  - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
-Democratic Institutions” [__Revised & Resubmitted__]
   - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajtmajer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
 Federal, State, and Local Oﬀicials”  [__Revise & Resubmit__]
   - Yu,Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
@@ -87,8 +87,7 @@ Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020”
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
   - Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
-  - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent
-Across Countries”
+  - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
 
 * __Working Paper__
   - *Computational Social Science and Digital Politics*
