@@ -44,29 +44,30 @@ urlcolor: blue
 
 # RESEARCH AREAS
 * __Political Science__ 
-  - Digital Politics and Communication, Public Opinion, Chinese Politics.
+  - AI/Digital Politics and Communication, Public Opinion, Chinese Politics.
   
 * __Computational Social Science__ 
   - GenAI/LLM, NLP/Text-as-data, Bayesian Measurement Models, Statistical Models.
   
 # PUBLICATIONS
 
-* __Computational Social Science and Digital Politics__
-  - Tai, Yuehong Cassandra, Yu-ru Lin, and Bruce A. Desmarais. “Public Oﬀicials’ Online Sharing of
-Misinformation: Institutional and Ideological Checks”  *Conditionally Accepted at Political Communication*.
-  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru Lin. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales” in *Proceedings of the 17th ACM Web Science Conference 2025*.
-   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. “Navigating Hate and
+* __Computational Social Science and AI Politics__
+  - Tai, Yuehong Cassandra, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of
+Misinformation: Institutional and Ideological Checks.”  *Conditionally Accepted at Political Communication*.
+  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
+Federal, State, and Local Oﬀicials.”   *Accepted at Scientific Data*.
+  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
+   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. 2025. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
-Communication” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
-  - Biswas, Ahana, Yu-ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. “Political Elites in the
-Attention Economy: Visibility Over Civility and Credibility?” *Accepted at ICWSM 2025*.
-
-  - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets” *Journal of Information Technology & Politics*.
+Communication.” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
+  - Biswas, Ahana, Yu-ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. 2025. “Political Elites in the
+Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
+  - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - Tai, Yuehong Cassandra. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
-  Democratic Institutions” *Accepted at International Journal of Public Opinion Research*.
-  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support” *Research & Politics*.
+  - Tai, Yuehong Cassandra. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
+  Democratic Institutions.” *Accepted at International Journal of Public Opinion Research*.
+  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
   - Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
   - Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
   - Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measure-
@@ -80,20 +81,19 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKS IN PROGRESS
 * __Under Review__
-  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajtmajer, Kevin Munger, Yu-ru Lin, and Bruce A. Desmarais. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
-Federal, State, and Local Oﬀicials”  [__Revise & Resubmit__]
   - Yu,Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
 Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
   - Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
+  - Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” 
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
 
 * __Working Paper__
   - *Computational Social Science and Digital Politics*
    - “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
 Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
-   - “Climate Clash: Fossil Fuel Influence, Public Opinion, and State Legislators’ Online Discourse” (with Xun Cao, Yu-ru Lin and Bruce A. Desmarais) [__Lead Author__]
+   - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X” (with Xun Cao, Yu-Ru Lin and Bruce A. Desmarais) [__Lead Author__]
    - “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
   - *Public Opinion*
    + “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
@@ -101,16 +101,19 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
      
 # CONFERENCE PRESENTATIONS
 
+- “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X”
+  - PolNet-PaCSS 2025, Harvard University, MA \hfill Aug 2025
+  - PolMeth 2025, Emory University, GA \hfill July 2025
 - “State Legislators’ Misinformation and the Limits of LLMs’ Evaluative Reasoning”
   - Information and Misinformation in Elections, California Institute of Technology, CA \hfill Jan 2025
 - “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials”
   - (Large) Language Models in Social Science 2024, University of Pennsylvania, PA \hfill Sep 2024
-  - PolMeth 2024, University of California, Riverside \hfill July 2024
+  - PolMeth 2024, University of California, CA \hfill July 2024
 - “Climate Clash: Fossil Fuel Influence, Public Opinion, and State Legislators’ Online Discourse”
-  - APSA 2024, University of Pennsylvania, Philadelphia \hfill Sep 2024
-  - Visions in Methodology 2024, Washington University in St.Louis \hfill May 2024
+  - APSA 2024, University of Pennsylvania, PA \hfill Sep 2024
+  - Visions in Methodology 2024, Washington University in St.Louis, MO \hfill May 2024
 - “Understanding Asian Hate in State Legislatures: An Electoral Connection”
-  - State Politics and Policy Conference 2024, University of Virginia \hfill June 2024
+  - State Politics and Policy Conference 2024, University of Virginia, VA \hfill June 2024
   
 - “The Prevalence of Misinformation in U.S. State Legislators’ Facebook Posts”
   - American Political Science Association Conference 2023, LA \hfill Sep 2023
@@ -119,7 +122,7 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
   - American Political Science Association Conference 2023, LA \hfill Aug 2023
 
 - “The Prevalence of Misinformation in U.S. State Legislators’ Facebook Posts”
-  - State Politics and Policy Conference 2023, University of Pittsburgh \hfill May 2023
+  - State Politics and Policy Conference 2023, University of Pittsburgh, PA \hfill May 2023
 
 - “How Does Public Opinion Affect Climate Change Policies? Constructing Measures of Climate Change Public Concern and Testing Their Effects on Policy Outputs”
   - Political Economy and International Relation Workshop, PSU \hfill Mar 2023
@@ -147,6 +150,8 @@ Scandal.”
 # TEACHING EXPERIENCE
 * __Method Courses__
   - __Instructor, Penn State University__
+   - C-SoDA Research Practicum: AI and Governance (Undergraduate Level) \hfill Fall 2025
+  - __Instructor, Penn State University__
    - PLSC 10: Scientific Study of Politics (Undergraduate Level) \hfill Fall 2024
   - Instructor, Penn State University
    - PLSC 308: Introduction to Political Research (Undergraduate Level) \hfill Spring 2024
@@ -160,6 +165,18 @@ Scandal.”
     - Graded students’ assignments with detailed comments and offered one-on-one consultations on students’ individual projects.
 
 * __Invited Talk and Guest Lecture__
+  - __Guest Speaker, Penn State University__
+   - The Institute for Computational and Data Sciences (ICDS) Symposium (Scheduled)  \hfill Fall 2025
+     - Evaluating and Applying AI Models for Social and Political Research
+  - __Guest Speaker, Penn State University__
+   - Social Science Research Institute Open House (Scheduled)  \hfill Fall 2025
+     - Hands-On with AI: Evaluating and Applying Models for Social Science Data
+  - __Guest Speaker, Penn State University__
+   - Social Science Research Institute Open House (Open to Faculty Members in SSRI) \hfill Spring 2025
+     - How to Navigate High Performance Computing
+  - __Guest Lecturer, Penn State University__
+   - Approaches and Issues in Big Social Data (Graduate Level) \hfill Spring 2025
+     - GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales
   - __Guest Lecturer, University of Massachusetts Amherst__
    - Data Analytics and Computational Social Science (Graduate Level) \hfill Fall 2024
      - LLMs in social science
@@ -192,10 +209,9 @@ Scandal.”
 # EXTERNAL AND CAMPUS SERVICE
   - __Member__: American Political Science Association (sections on Political Methodology), the Midwestern
 Political Science Association and Association of Chinese Political Science
-  - __Reviewer__: American Political Science Review, American Journal of Political Science, British Journal of Political Science, Research and Politics, The International Conference on Weblogs and Social Media (ICWSM), International World Wide Web Conference 2025 (WWW2025), Public Opinion Quarterly, Asian Survey, International Journal of Public
-Opinion Research, International Journal of Comparative Sociology.
+  - __Reviewer__: American Political Science Review, American Journal of Political Science, British Journal of Political Science, Research and Politics, The International Conference on Weblogs and Social Media (ICWSM), International World Wide Web Conference 2025 (WWW2025), Public Opinion Quarterly, Asian Survey, International Journal of Public Opinion Research, International Journal of Comparative Sociology.
   - __POLMETH Mailing List Editor__: The Society for Political Methodology. \hfill 2024 -
-  - __Seed Grant Reviewer__: Center for Social Data Analytics. Pennsylvania State University \hfill 2022, 2023,2024
+  - __Seed Grant Reviewer__: Center for Social Data Analytics. Pennsylvania State University \hfill 2022, 2023,2024,2025
   - __Planning Committee Member__: 16th Postdoctoral Research Symposium. Pennsylvania State University \hfill2023
   - __Committee Member__: Post-doctoral Scholar Committee. College of the Liberal Arts, Pennsylvania State University \hfill 2022
   - __iPeer Mentor__: iPeer Mentorship Program. International Student and Scholar Services, University of Iowa \hfill 2021
@@ -225,7 +241,7 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
     - Causal Inference for the Social Sciences & Multilevel Models II: Advanced Topics.
     
 * __Skills__
-  - Analysis & Programming: R,  Stata,Python, Stan,JAGS, SQL, Mplus, Java.
+  - Analysis & Programming: R, Python, SQL, Stata, Stan, JAGS,  Mplus, Java.
   - Application:  \LaTeX, Markdown, Git(GitHub).
   - Language: English, Chinese (Mandarin)
 
