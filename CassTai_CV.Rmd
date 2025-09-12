@@ -44,31 +44,30 @@ urlcolor: blue
 
 # RESEARCH AREAS
 * __Political Science__ 
-  - AI/Digital Politics and Communication, Public Opinion, Chinese Politics.
+  - Responsible AI in Governance, Political Communication, Public Opinion, Chinese Politics.
   
 * __Computational Social Science__ 
-  - GenAI/LLM, NLP/Text-as-data, Bayesian Measurement Models, Statistical Models.
+  - GenAI Pipelines and Evaluation, LLMs/ NLP/ Text-as-data, Bayesian Measurement Models, Applied Statistical Methods.
   
 # PUBLICATIONS
 
-* __Computational Social Science and AI Politics__
+* __AI and Computational Social Science__
   - Tai, Yuehong Cassandra, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of
 Misinformation: Institutional and Ideological Checks.”  *Conditionally Accepted at Political Communication*.
-  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni,Sarah Michele Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by
-Federal, State, and Local Oﬀicials.”   *Accepted at Scientific Data*.
+  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Accepted at Scientific Data*.
   - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
    - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. 2025. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication.” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
-  - Biswas, Ahana, Yu-ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. 2025. “Political Elites in the
+  - Biswas, Ahana, Yu-Ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. 2025. “Political Elites in the
 Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
   - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
   - Tai, Yuehong Cassandra. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
-  Democratic Institutions.” *Accepted at International Journal of Public Opinion Research*.
+  Democratic Institutions.” *International Journal of Public Opinion Research*.
   - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
-  - Woo, Byung-Deuk,Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
+  - Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
   - Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
   - Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measure-
 ment Uncertainty” *American Political Science Review*.
@@ -81,7 +80,7 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKS IN PROGRESS
 * __Under Review__
-  - Yu,Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
+  - Yu, Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
 Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
@@ -90,13 +89,14 @@ Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
 
 * __Working Paper__
-  - *Computational Social Science and Digital Politics*
+  - *AI and Computational Social Science*
    - “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
 Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X” (with Xun Cao, Yu-Ru Lin and Bruce A. Desmarais) [__Lead Author__]
    - “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
   - *Public Opinion*
    + “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
+   + “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
    + “Dynamic Trust and States’ Failure in Public Health: Evidence from a Global Time Series Data”
      
 # CONFERENCE PRESENTATIONS
@@ -161,7 +161,7 @@ Scandal.”
    - Hawkeye Poll (Undergraduate Level) \hfill Spring 2022
     - Guided students to design survey questions on both national and local politics, carry out telephone interviews,analyze and interpret data, and write release press and analytical papers.
   - __Teaching Assistant, University of Michigan__
-   - Bayesian Modeling for the Social Sciences II:Advanced Topics, ICPSR Program, \hfill Summer 2021
+   - Bayesian Modeling for the Social Sciences II: Advanced Topics, ICPSR Program, \hfill Summer 2021
     - Graded students’ assignments with detailed comments and offered one-on-one consultations on students’ individual projects.
 
 * __Invited Talk and Guest Lecture__
@@ -204,7 +204,7 @@ Scandal.”
      - Introduction to Political Behavior   \hfill Fall 2019
      - Introduction to Comparative Politics  \hfill Fall 2018, Spring 2019
      - The Presidency    \hfill Fall 2017
-     - Introduction to Comparative Politics (Online Course) \hfill Summer 2018,2019
+     - Introduction to Comparative Politics (Online Course) \hfill Summer 2018, 2019
 
 # EXTERNAL AND CAMPUS SERVICE
   - __Member__: American Political Science Association (sections on Political Methodology), the Midwestern
@@ -213,7 +213,7 @@ Political Science Association and Association of Chinese Political Science
   - __POLMETH Mailing List Editor__: The Society for Political Methodology. \hfill 2024 -
   - __Seed Grant Reviewer__: Center for Social Data Analytics. Pennsylvania State University \hfill 2022, 2023,2024,2025
   - __Planning Committee Member__: 16th Postdoctoral Research Symposium. Pennsylvania State University \hfill2023
-  - __Committee Member__: Post-doctoral Scholar Committee. College of the Liberal Arts, Pennsylvania State University \hfill 2022
+  - __Committee Member__: Postdoctoral Scholar Committee. College of the Liberal Arts, Pennsylvania State University \hfill 2022
   - __iPeer Mentor__: iPeer Mentorship Program. International Student and Scholar Services, University of Iowa \hfill 2021
   - __Discussant__: Government Transparency in China. Midwest Political Science Association Annual Meeting \hfill Apr 2021
   - __Session Chair and Discussant__:Time and Space. Political Science Methodology Conference for Asia and Australasia \hfill  Jan 2021
@@ -223,7 +223,7 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
   - __Discussant__: Chinese Politics. Southern Political Science Association Conference \hfill Jan 2020
 
 # AWARDS & HONORS
-* Nominated to Global Student Awards,University of Iowa \hfill Fall 2021
+* Nominated to Global Student Awards, University of Iowa \hfill Fall 2021
 * Finalist for annual “Thesis Challenge,” University of Iowa  \hfill Fall 2021
 * Graduate Post-Comp Research Fellowship ($10,500), University of Iowa \hfill Fall 2021
 * Graduate College Summer Fellowship ($5,000), University of Iowa  \hfill Summer 2021
@@ -242,7 +242,7 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
     
 * __Skills__
   - Analysis & Programming: R, Python, SQL, Stata, Stan, JAGS,  Mplus, Java.
-  - Application:  \LaTeX, Markdown, Git(GitHub).
+  - Application:  LaTeX, Markdown, Git(GitHub).
   - Language: English, Chinese (Mandarin)
 
 
@@ -255,5 +255,5 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
 * Professor, Penn State University \hfill Associate Professor, Purdue University
 * __Elizabeth J. Menninga__, __Ph.D__
 * elizabeth-menninga@uiowa.edu; (319) 335-3835
-* Associate Professor,University of Iowa
+* Associate Professor, University of Iowa
 
