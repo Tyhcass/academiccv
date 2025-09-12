@@ -90,6 +90,8 @@ Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
 
 * __Working Paper__
   - *AI and Computational Social Science*
+   - "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
+   - "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" (with Hyein Ko and Nora Webb Williams) 
    - “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
 Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X” (with Xun Cao, Yu-Ru Lin and Bruce A. Desmarais) [__Lead Author__]
