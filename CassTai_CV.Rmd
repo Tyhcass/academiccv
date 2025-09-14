@@ -52,30 +52,29 @@ urlcolor: blue
 # PUBLICATIONS
 
 * __AI and Computational Social Science__
-  - Tai, Yuehong Cassandra, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of
+  - 13.Tai, Yuehong Cassandra, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of
 Misinformation: Institutional and Ideological Checks.”  *Conditionally Accepted at Political Communication*.
-  - Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Accepted at Scientific Data*.
-  - Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
-   - Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. 2025. “Navigating Hate and
+  - 12.Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Accepted at Scientific Data*.
+  - 11.Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
+   - 10.Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. 2025. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication.” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
-  - Biswas, Ahana, Yu-Ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. 2025. “Political Elites in the
+  - 9.Biswas, Ahana, Yu-Ru Lin, Yuehong Cassandra Tai and Bruce A. Desmarais. 2025. “Political Elites in the
 Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
-  - Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
+  - 8.Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - Tai, Yuehong Cassandra. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
+  - 7.Tai, Yuehong Cassandra. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
   Democratic Institutions.” *International Journal of Public Opinion Research*.
-  - Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
-  - Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
-  - Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
-  - Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measure-
-ment Uncertainty” *American Political Science Review*.
+  - 6.Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
+  - 5.Woo, Byung-Deuk, Hyein Ko, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
+  - 4.Hu, Yue, Yuehong Cassandra Tai\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
+  - 3.Tai, Yuehong Cassandra, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measurement Uncertainty” *American Political Science Review*.
 
 * __Chinese Politics__
-  - Tai, Yuehong Cassandra, Jielu Yao and Elise Pizzi. 2022. “Policy Adoption and Diffusion during the
+  - 2.Tai, Yuehong Cassandra, Jielu Yao and Elise Pizzi. 2022. “Policy Adoption and Diffusion during the
 COVID-19 Crisis” *Journal of Asian Public Policy*.
-  - Tai, Yuehong Cassandra. 2022. “Determinants of Chinese Provinces’ Responses to the 2018 Vaccine
+  - 1.Tai, Yuehong Cassandra. 2022. “Determinants of Chinese Provinces’ Responses to the 2018 Vaccine
 Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKS IN PROGRESS
