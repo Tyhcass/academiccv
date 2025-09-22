@@ -79,9 +79,9 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKS IN PROGRESS
 * __Under Review__
+  - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” [__Revised & Resubmitted__]
   - Yu, Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
 Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
-  - Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” [__Revise & Resubmit__]
   - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
   - Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
   - Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” 
@@ -101,7 +101,8 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    + “Dynamic Trust and States’ Failure in Public Health: Evidence from a Global Time Series Data”
      
 # CONFERENCE PRESENTATIONS
-
+- "Evaluating and Applying AI Models for Social and Political Research" (scheduled)
+  - Protecting the Election: AI & Governance,  Washington University in St.Louis, MO \hfill  Oct 2025
 - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X”
   - PolNet-PaCSS 2025, Harvard University, MA \hfill Aug 2025
   - PolMeth 2025, Emory University, GA \hfill July 2025
