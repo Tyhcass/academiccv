@@ -82,7 +82,7 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 * __Under Review__
   - Yu, Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
 Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
-  - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022”
+  - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
   - Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
   - Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” 
   - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
