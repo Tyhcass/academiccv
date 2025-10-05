@@ -54,7 +54,7 @@ urlcolor: blue
 * __AI and Computational Social Science__
   - 14.Tai, Yuehong Cassandra, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of
 Misinformation: Institutional and Ideological Checks.”  *Conditionally Accepted at Political Communication*.
-  - 13.Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Accepted at Scientific Data*.
+  - 13.Tai, Yuehong Cassandra, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Scientific Data*.
   - 12.Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
   - 11.Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai. 2025. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
@@ -64,7 +64,7 @@ Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings 
   - 9.Tai, Yuehong Cassandra, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - 8.Tai, Yuehong Cassandra. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” *Accepted at Research & Politics*.
+  - 8.Tai, Yuehong Cassandra.2025. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” *Accepted at Research & Politics*.
   - 7.Tai, Yuehong Cassandra. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
   Democratic Institutions.” *International Journal of Public Opinion Research*.
   - 6.Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
@@ -80,28 +80,27 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKS IN PROGRESS
 * __Under Review__
-  - Yu, Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
+  - 5. Yu, Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
 Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
-  - Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
-  - Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
-  - Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” 
-  - Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
+  - 4. Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
+  - 3. Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
+  - 2. Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” 
+  - 1. Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
 
 * __Working Paper__
   - *AI and Computational Social Science*
-   - "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
-   - "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" (with Hyein Ko and Nora Webb Williams) 
-   - “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
+   - 7. "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" (with Hyein Ko and Nora Webb Williams) 
+   - 6. "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
+   - 5. “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
 Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
-   - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X” (with Xun Cao, Yu-Ru Lin and Bruce A. Desmarais) [__Lead Author__]
-   - “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
+   - 4. “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X” (with Xun Cao, Yu-Ru Lin and Bruce A. Desmarais) [__Lead Author__]
+   - 3. “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
   - *Public Opinion*
-   + “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
-   + “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
-   + “Dynamic Trust and States’ Failure in Public Health: Evidence from a Global Time Series Data”
-     
+   + 2. “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
+   + 1. “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
+
 # CONFERENCE PRESENTATIONS
-- "Evaluating and Applying AI Models for Social and Political Research" (scheduled)
+- "Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X" (scheduled)
   - Protecting the Election: AI & Governance,  Washington University in St.Louis, MO \hfill  Oct 2025
 - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X”
   - PolNet-PaCSS 2025, Harvard University, MA \hfill Aug 2025
@@ -167,9 +166,6 @@ Scandal.”
     - Graded students’ assignments with detailed comments and offered one-on-one consultations on students’ individual projects.
 
 * __Invited Talk and Guest Lecture__
-  - __Guest Speaker, Penn State University__
-   - The Institute for Computational and Data Sciences (ICDS) Symposium (Scheduled)  \hfill Fall 2025
-     - Evaluating and Applying AI Models for Social and Political Research
   - __Guest Speaker, Penn State University__
    - Social Science Research Institute Open House (Scheduled)  \hfill Fall 2025
      - Hands-On with AI: Evaluating and Applying Models for Social Science Data
