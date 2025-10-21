@@ -83,8 +83,8 @@ Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
   - 5. Yu, Dong Erico, and Yuehong Cassandra Tai. “Speak ‘As Good As Men’? An Empirical Study of Gender
 Variation in Chinese Courtroom Audio” [__Revise & Resubmit__]
   - 4. Tai, Yuehong Cassandra and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
-  - 3. Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
-  - 2. Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” 
+  - 3. Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” [__Revise & Resubmit__]
+  - 2. Kim, Yooneui and Yuehong Cassandra Tai. “The Skeptical Public: Trust in the United Nations” 
   - 1. Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries”
 
 * __Working Paper__
@@ -100,7 +100,7 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    + 1. “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
 
 # CONFERENCE PRESENTATIONS
-- "Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X" (scheduled)
+- "Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X" 
   - Protecting the Election: AI & Governance,  Washington University in St.Louis, MO \hfill  Oct 2025
 - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X”
   - PolNet-PaCSS 2025, Harvard University, MA \hfill Aug 2025
@@ -232,6 +232,11 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
 * Department Summer Training Grant ($2400), University of Iowa \hfill Summer 2018
 
 # ADDITIONAL TRAINING AND SKILLS
+
+* __Courses Taken in Graduate School__
+   - __Methodology and Quantitative Analysis__: Introductory, Intermediate, and Advanced Methodology; Modeling Time and Space; Factor Analysis and Structural Equation Models
+   - __Computational and Data Science Methods__: Computational Methods for Comparative Politics; Text as Data; Introduction to Informatics; Network Analysis; Bayesian Analysis, Database Management
+   
 * __Certificate__
   - Certificate in Informatics, The University of Iowa, U.S.A. \hfill 2021
     - Programming in Python, Java, and SQL.
@@ -242,7 +247,7 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
   - Analysis & Programming: R, Python, SQL, Stata, Stan, JAGS,  Mplus, Java.
   - Application:  LaTeX, Markdown, Git(GitHub).
   - Language: English, Chinese (Mandarin)
-
+  
 
 # REFERENCES
 * __Frederick Solt__, __Ph.D__ \hfill __Bruce A. Desmarais__, __Ph.D__
