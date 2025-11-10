@@ -207,9 +207,9 @@ Scandal.”
 # EXTERNAL AND CAMPUS SERVICE
   - __Member__: American Political Science Association (sections on Political Methodology), the Midwestern
 Political Science Association and Association of Chinese Political Science
-  - __Reviewer__: American Political Science Review, American Journal of Political Science, British Journal of Political Science, Research and Politics, The International Conference on Weblogs and Social Media (ICWSM), International World Wide Web Conference 2025 (WWW2025), Public Opinion Quarterly, Asian Survey, International Journal of Public Opinion Research, International Journal of Comparative Sociology.
+  - __Reviewer__: American Political Science Review, American Journal of Political Science, British Journal of Political Science, Research and Politics, The International Conference on Weblogs and Social Media (ICWSM), International World Wide Web Conference 2025 (WWW2025), International World Wide Web Conference 2026 (WWW2026), Public Opinion Quarterly, Asian Survey, International Journal of Public Opinion Research, International Journal of Comparative Sociology.
   - __POLMETH Mailing List Editor__: The Society for Political Methodology. \hfill 2024 -
-  - __Seed Grant Reviewer__: Center for Social Data Analytics. Pennsylvania State University \hfill 2022, 2023,2024,2025
+  - __Seed Grant Reviewer__: Center for Social Data Analytics. Pennsylvania State University \hfill 2022, 2023,2024,2025,2026
   - __Planning Committee Member__: 16th Postdoctoral Research Symposium. Pennsylvania State University \hfill2023
   - __Committee Member__: Postdoctoral Scholar Committee. College of the Liberal Arts, Pennsylvania State University \hfill 2022
   - __iPeer Mentor__: iPeer Mentorship Program. International Student and Scholar Services, University of Iowa \hfill 2021
