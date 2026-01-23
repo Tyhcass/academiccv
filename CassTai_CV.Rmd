@@ -52,8 +52,7 @@ urlcolor: blue
 # PUBLICATIONS
 
 * __AI and Computational Social Science__
-  - 14. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of
-Misinformation: Institutional and Ideological Checks.”  *Conditionally Accepted at Political Communication*.
+  - 14. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Forthcoming at Political Communication*.
   - 13. __Tai, Yuehong Cassandra__, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Scientific Data*.
   - 12. __Tai, Yuehong Cassandra__, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
   - 11. Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and __Yuehong Cassandra Tai__. 2025. “Navigating Hate and
@@ -75,16 +74,14 @@ Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings 
 * __Chinese Politics__
   - 2. __Tai, Yuehong Cassandra__, Jielu Yao and Elise Pizzi. 2022. “Policy Adoption and Diffusion during the
 COVID-19 Crisis” *Journal of Asian Public Policy*.
-  - 1. __Tai, Yuehong Cassandra__. 2022. “Determinants of Chinese Provinces’ Responses to the 2018 Vaccine
-Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
+  - 1. __Tai, Yuehong Cassandra__. 2022. “Determinants of Chinese Provinces’ Responses to the 2018 Vaccine Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKING PAPERS
-  - 5. Yu, Dong Erico, and __Yuehong Cassandra Tai__. “Speak ‘As Good As Men’? An Empirical Study of Gender
-Variation in Chinese Courtroom Audio” [__Revised & Resubmitted__]
+  - 5. Yu, Dong Erico, and __Yuehong Cassandra Tai__. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” [__Revised & Resubmitted__]
   - 4. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” [__Revised & Resubmitted__]
   - 3. __Tai, Yuehong Cassandra__ and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
-  - 2. Kim, Yooneui and __Yuehong Cassandra Tai__. “The Skeptical Public: Trust in the United Nations”
-  - 1. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” [__Under Review__]
+  - 2. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” [__Revise & Resubmit__]
+  - 1. Kim, Yooneui and __Yuehong Cassandra Tai__. “The Skeptical Public: Trust in the United Nations”
 
 # WORKS IN PROGRESS 
 * __AI and Computational Social Science__
@@ -97,6 +94,9 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
 * __Public Opinion__
    + 2. “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
    + 1. “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
+   
+# GRANTS
+- Center for Socially Responsible Artificial Intelligence, “Transparent and Reproducible AI-assisted Annotation for Social Data: A Multi-Agent framework,” effective Dec 20, 2025 and expires June 30, 2027. Co-PI, Qunhua Li. $25,000.
 
 # CONFERENCE PRESENTATIONS
 - "Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X" 
