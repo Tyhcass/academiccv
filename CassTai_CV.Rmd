@@ -44,52 +44,48 @@ urlcolor: blue
 
 # RESEARCH AREAS
 * __Political Science__ 
-  - Responsible AI in Governance, Political Communication, Public Opinion, Chinese Politics.
+  - Accountable AI in Governance, Political Communication, Public Opinion, Chinese Politics.
   
 * __Computational Social Science__ 
-  - GenAI Pipelines and Evaluation, LLMs/ NLP/ Text-as-data, Bayesian Measurement Models, Applied Statistical Methods.
+  - GenAI Pipelines and Evaluation, LLMs/NLP, Bayesian Models, Applied Statistical Methods.
   
 # PUBLICATIONS
 
 * __AI and Computational Social Science__
-  - 14. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Forthcoming at Political Communication*.
+  - 14. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2026. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Political Communication*.
   - 13. __Tai, Yuehong Cassandra__, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Scientific Data*.
   - 12. __Tai, Yuehong Cassandra__, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
   - 11. Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and __Yuehong Cassandra Tai__. 2025. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
 Communication.” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
-  - 10. Biswas, Ahana, Yu-Ru Lin, __Yuehong Cassandra Tai__ and Bruce A. Desmarais. 2025. “Political Elites in the
-Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
+  - 10. Biswas, Ahana, Yu-Ru Lin, __Yuehong Cassandra Tai__ and Bruce A. Desmarais. 2025. “Political Elites in the Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
   - 9. __Tai, Yuehong Cassandra__, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
   - 8. __Tai, Yuehong Cassandra__.2025. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” *Accepted at Research & Politics*.
-  - 7. __Tai, Yuehong Cassandra__. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of
-  Democratic Institutions.” *International Journal of Public Opinion Research*.
+  - 7. __Tai, Yuehong Cassandra__. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of Democratic Institutions.” *International Journal of Public Opinion Research*.
   - 6. Hu, Yue, __Yuehong Cassandra Tai__, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
   - 5. Woo, Byung-Deuk, Hyein Ko, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
   - 4. Hu, Yue, __Yuehong Cassandra Tai__\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
   - 3. __Tai, Yuehong Cassandra__, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measurement Uncertainty” *American Political Science Review*.
 
 * __Chinese Politics__
-  - 2. __Tai, Yuehong Cassandra__, Jielu Yao and Elise Pizzi. 2022. “Policy Adoption and Diffusion during the
-COVID-19 Crisis” *Journal of Asian Public Policy*.
+  - 2. __Tai, Yuehong Cassandra__, Jielu Yao and Elise Pizzi. 2022. “Policy Adoption and Diffusion during the COVID-19 Crisis” *Journal of Asian Public Policy*.
   - 1. __Tai, Yuehong Cassandra__. 2022. “Determinants of Chinese Provinces’ Responses to the 2018 Vaccine Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
 
 # WORKING PAPERS
-  - 5. Yu, Dong Erico, and __Yuehong Cassandra Tai__. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” [__Revised & Resubmitted__]
-  - 4. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” [__Revised & Resubmitted__]
-  - 3. __Tai, Yuehong Cassandra__ and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
-  - 2. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” [__Revise & Resubmit__]
-  - 1. Kim, Yooneui and __Yuehong Cassandra Tai__. “The Skeptical Public: Trust in the United Nations”
+  - 5. __Tai, Yuehong Cassandra__, Xun Cao, Yu-Ru Lin, and Bruce A. Desmarais. “Where Legislators Speak Changes What They Say: Platform Conditions Climate Attention and Framing” [__Under Review__]
+  - 4. __Tai, Yuehong Cassandra__ and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
+  - 3. Yu, Dong Erico, and __Yuehong Cassandra Tai__. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” [__Revised & Resubmitted__]
+  - 2. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” [__Revised & Resubmitted__]
+  - 1. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” [__Revised & Resubmitted__]
 
 # WORKS IN PROGRESS 
 * __AI and Computational Social Science__
-   - 7. "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" (with Hyein Ko and Nora Webb Williams) [__Co–lead Author__]
-   - 6. "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
-   - 5. “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael
-Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
-   - 4. “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X” (with Xun Cao, Yu-Ru Lin and Bruce A. Desmarais) [__Lead Author__]
+   - 7. "Traceable Codebook-Grounded Annotation with Large Language Models" (Qunhua Li)
+   - 6. "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" (with Hyein Ko and Nora Webb Williams) [__Co–lead Author__]
+   - 5. "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
+   - 4. “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - 3. “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
 * __Public Opinion__
    + 2. “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
@@ -99,6 +95,8 @@ Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
 - Center for Socially Responsible Artificial Intelligence, “Transparent and Reproducible AI-assisted Annotation for Social Data: A Multi-Agent framework,” effective Dec 20, 2025 and expires June 30, 2027. Co-PI, Qunhua Li. $25,000.
 
 # CONFERENCE PRESENTATIONS
+- "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation"
+  - Southern Political Science Association Conference \hfill Jan 2026
 - "Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X" 
   - Protecting the Election: AI & Governance,  Washington University in St.Louis, MO \hfill  Oct 2025
 - “Who Speaks, Who Falls Silent: Strategic Climate Messaging by State Legislators on Facebook and X”
@@ -149,6 +147,8 @@ Scandal.”
 
 # TEACHING EXPERIENCE
 * __Method Courses__
+  - __Instructor, Penn State University__
+   - C-SoDA Research Practicum: AI and Multimodal data (Undergraduate Level) \hfill Spring 2026
   - __Instructor, Penn State University__
    - C-SoDA Research Practicum: AI and Governance (Undergraduate Level) \hfill Fall 2025
   - __Instructor, Penn State University__
@@ -204,11 +204,12 @@ Scandal.”
      - Introduction to Comparative Politics (Online Course) \hfill Summer 2018, 2019
 
 # EXTERNAL AND CAMPUS SERVICE
-  - __Member__: American Political Science Association (sections on Political Methodology), the Midwestern
-Political Science Association and Association of Chinese Political Science
-  - __Reviewer__: American Political Science Review, American Journal of Political Science, British Journal of Political Science, Research and Politics, The International Conference on Weblogs and Social Media (ICWSM), International World Wide Web Conference 2025 (WWW2025), International World Wide Web Conference 2026 (WWW2026), Public Opinion Quarterly, Asian Survey, International Journal of Public Opinion Research, International Journal of Comparative Sociology.
-  - __POLMETH Mailing List Editor__: The Society for Political Methodology. \hfill 2024 -
+  - __Member__: American Political Science Association (sections on Political Methodology), Midwest Political Science Association, and Southern Political Science Association
+  - __Reviewer__: American Political Science Review, American Journal of Political Science, British Journal of Political Science, Research and Politics, The International Conference on Weblogs and Social Media (ICWSM), International World Wide Web Conference 2025 (WWW2025), International World Wide Web Conference 2026 (WWW2026), Humanities and Social Sciences Communications, Public Opinion Quarterly, Asian Survey, International Journal of Public Opinion Research, International Journal of Comparative Sociology.
+  - __Seed Grant Reviewer (“Analytical and Social AI” program)__: Social Science Research Institute. Pennsylvania State University \hfill 2026
+  - __AI Panel Facilitator__: 2026 Data Summit. Pennsylvania State University \hfill 2026
   - __Seed Grant Reviewer__: Center for Social Data Analytics. Pennsylvania State University \hfill 2022, 2023,2024,2025,2026
+   - __POLMETH Mailing List Editor__: The Society for Political Methodology. \hfill 2024 -
   - __Planning Committee Member__: 16th Postdoctoral Research Symposium. Pennsylvania State University \hfill2023
   - __Committee Member__: Postdoctoral Scholar Committee. College of the Liberal Arts, Pennsylvania State University \hfill 2022
   - __iPeer Mentor__: iPeer Mentorship Program. International Student and Scholar Services, University of Iowa \hfill 2021
@@ -235,6 +236,9 @@ Politics and Computational Social Science and Political Networks \hfill Aug 2020
 * __Courses Taken in Graduate School__
    - __Methodology and Quantitative Analysis__: Introductory, Intermediate, and Advanced Methodology; Modeling Time and Space; Factor Analysis and Structural Equation Models
    - __Computational and Data Science Methods__: Computational Methods for Comparative Politics; Text as Data; Introduction to Informatics; Network Analysis; Bayesian Analysis, Database Management
+   
+* __Training__
+  - Summer Institutes in Computational Social Science, Rutgers, NJ \hfill2024
    
 * __Certificate__
   - Certificate in Informatics, The University of Iowa, U.S.A. \hfill 2021
