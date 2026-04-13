@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.9)  21 FEB 2026 13:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.9)  13 APR 2026 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1796,7 +1796,7 @@ Package hyperref Info: Link coloring ON on input line 117.
 \openout3 = `CassTai_CV.out'.
 
 LaTeX Font Info:    Font shape `TU/FontAwesome.otf(0)/m/n' will be
-(Font)              scaled to size 10.6008pt on input line 133.
+(Font)              scaled to size 10.6008pt on input line 132.
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -1839,46 +1839,46 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[0.9707181870057879]"STFangsong/OT:script=hani;language=dflt;mapping=tex-text;"
 
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 133.
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 ) (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 133.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 133.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 133.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 133.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.98209pt on input line 133.
+(Font)              scaled to size 10.98209pt on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 133.
+(Font)              scaled to size 7.29405pt on input line 132.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 133.
+(Font)              scaled to size 5.21004pt on input line 132.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.98209pt on input line 133.
+(Font)              scaled to size 10.98209pt on input line 132.
 (/Users/yjt5154/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 133.
+(Font)              scaled to size 7.29405pt on input line 132.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 133.
+(Font)              scaled to size 5.21004pt on input line 132.
 [1
 
 ] [2] [3] [4] [5] [6] [7] 
@@ -1889,7 +1889,7 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `CassTai_CV.out' has not changed.
-(rerunfilecheck)             Checksum: C48CCD67B8EDB272BA1FDF063DA05733;1718.
+(rerunfilecheck)             Checksum: 6180AD18DB1589D48B05E508A6E723E6;1718.
  ) 
 Here is how much of TeX's memory you used:
  24061 strings out of 470190
@@ -1898,6 +1898,6 @@ Here is how much of TeX's memory you used:
  52299 multiletter control sequences out of 15000+600000
  637249 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 88i,11n,134p,1199b,708s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,11n,134p,1199b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CassTai_CV.pdf (7 pages).

@@ -12,10 +12,11 @@ title: "CV"
 author: Yuehong Cassandra Tai
 
 #jobtitle: "Assistant Research Professor,The Center for Social Data Analytics"
-address: "425 Susan Welch Liberal Arts Building, Pennsylvania State University, University Park, PA 16802"
+#address: "425 Susan Welch Liberal Arts Building, Pennsylvania State University, University Park, PA 16802"
+research: "Computational social scientist studying GenAI evaluation, AI-assisted research workflows, and reproducible measurement in social data."
 fontawesome: yes
 email: yhcasstai@psu.edu
-github: Tyhcass
+#github: Tyhcass
 web: cassyuehtai.netlify.app
 updated: false
 fontfamily: mathpazo
@@ -38,61 +39,61 @@ urlcolor: blue
 
 # EDUCATION 
 * __Ph.D.__ Program in Political Science, University of Iowa, U.S.A. \hfill 2017-2022
-   - Fields: Comparative Politics, Political Methodology, American Politics
+  - Fields: Comparative Politics, Political Methodology, American Politics
 * __MSc__ in International Political Economy, Nanyang Technological University, Singapore \hfill 2008
 * __LL.B.__ in Diplomacy, Renmin University of China, China \hfill 2007
 
 # RESEARCH AREAS
-* __Political Science__ 
-  - Accountable AI in Governance, Political Communication, Public Opinion, Chinese Politics.
-  
 * __Computational Social Science__ 
-  - GenAI Pipelines and Evaluation, LLMs/NLP, Bayesian Models, Applied Statistical Methods.
+  - GenAI Evaluation, AI-assisted Research Workflows, LLMs/NLP.
+
+* __Political Science__ 
+  - Accountable AI in Governance, Political Communication, Public Opinion.
   
 # PUBLICATIONS
 
 * __AI and Computational Social Science__
-  - 15. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2026. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Political Communication*.
-  - 14. __Tai, Yuehong Cassandra__, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. “The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”   *Scientific Data*.
-  - 13. __Tai, Yuehong Cassandra__, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. “GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.” In *Proceedings of the 17th ACM Web Science Conference 2025*.
+  - 16. __Tai, Yuehong Cassandra__, Yu-Ru Lin, and Bruce A. Desmarais. 2026. “Public Oﬀicials’ Online Sharing of Misinformation: Institutional and Ideological Checks.”  *Political Communication*.
+  - 15.  Yu, Dong Erico, and __Yuehong Cassandra Tai__. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” *Accepted at Political Studies Review*.
+  - 14. __Tai, Yuehong Cassandra__, Nitheesha Nakka, Khushi Navin Patni, Sarah Rajtmajer, Kevin Munger, Yu-Ru Lin, and Bruce A. Desmarais. 2025. __“The Digitally Accountable Public Representation Database: Measuring Online Communication by Federal, State, and Local Oﬀicials.”__   *Scientific Data*.
+  - 13. __Tai, Yuehong Cassandra__, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-Ru Lin. 2025. __“GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales.”__ In *Proceedings of the 17th ACM Web Science Conference 2025*.
   - 12. Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and __Yuehong Cassandra Tai__. 2025. “Navigating Hate and
 Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Oﬀicials’ Online
-Communication.” [__with graduate students__] *Accepted at CySoc 2025 International Workshop on Cyber Social Threats.*
+Communication.” [__with graduate students__] *Workshop Proceedings of the 19th International AAAI Conference on Web and Social Media.*
   - 11. Biswas, Ahana, Yu-Ru Lin, __Yuehong Cassandra Tai__ and Bruce A. Desmarais. 2025. “Political Elites in the Attention Economy: Visibility Over Civility and Credibility?” In *Proceedings of the International AAAI Conference on Web and Social Media.*
   - 10. __Tai, Yuehong Cassandra__, Roan Buma and Bruce A. Desmarais. 2023. “Oﬀicial Yet Questionable: Examining Misinformation in U.S. State Legislators’ Tweets.” *Journal of Information Technology & Politics*.
 
 * __Public Opinion and Measurement__
-  - 9. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. 2026. “Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’” *Conditionally Accepted at PS: Political Science & Politics*.
-  - 8. __Tai, Yuehong Cassandra__. 2025. “Comparative Estimates of Public Trust in Government Across 115 Countries, 1973–2020” *Accepted at Research & Politics*.
+  - 9. Hu, Yue, __Yuehong Cassandra Tai__, and Frederick Solt. 2026. __“Data Wrangling Before Harmonization: Best Practices for Getting Past the ‘Janitor Work.’”__ *Accepted at PS: Political Science & Politics*.
+  - 8. __Tai, Yuehong Cassandra__. 2026. “Introducing the Trust in Government (TrustGov) Dataset: A New Resource for Cross-National Time-Series Trust Research” *Research & Politics*.
   - 7. __Tai, Yuehong Cassandra__. 2025. “The Upsides and Downsides of Generalized Trust: The Mediating Effect of Democratic Institutions.” *International Journal of Public Opinion Research*.
   - 6. Hu, Yue, __Yuehong Cassandra Tai__, Hyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. “An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.” *Research & Politics*.
   - 5. Woo, Byung-Deuk, Hyein Ko, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. 2024. “Public Support for Gay Rights Across Countries and Over Time.” *Social Science Quarterly*.
-  - 4. Hu, Yue, __Yuehong Cassandra Tai__\*, and Frederick Solt. 2024. “Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?” *Political Science Research and Methods*. [\* __co-first author__]
-  - 3. __Tai, Yuehong Cassandra__, Yue Hu, and Frederick Solt. 2022. “Democracy, Public Support, and Measurement Uncertainty” *American Political Science Review*.
+  - 4. Hu, Yue, __Yuehong Cassandra Tai__\*, and Frederick Solt. 2024. __“Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?”__ *Political Science Research and Methods*. [\* __co-first author__]
+  - 3. __Tai, Yuehong Cassandra__, Yue Hu, and Frederick Solt. 2022. __“Democracy, Public Support, and Measurement Uncertainty”__ *American Political Science Review*.
 
 * __Chinese Politics__
   - 2. __Tai, Yuehong Cassandra__, Jielu Yao and Elise Pizzi. 2022. “Policy Adoption and Diffusion during the COVID-19 Crisis” *Journal of Asian Public Policy*.
   - 1. __Tai, Yuehong Cassandra__. 2022. “Determinants of Chinese Provinces’ Responses to the 2018 Vaccine Scandal: Policy Orientation and Neighboring Effect” *Asian Survey*.
+  
+# GRANTS
+- Center for Socially Responsible Artificial Intelligence, __“Transparent and Reproducible AI-assisted Annotation for Social Data: A Multi-Agent framework,”__ effective Dec 20, 2025 and expires June 30, 2027. Co-PI, Qunhua Li. $25,000.
 
 # WORKING PAPERS
-  - 4. __Tai, Yuehong Cassandra__, Xun Cao, Yu-Ru Lin, and Bruce A. Desmarais. “Where Legislators Speak Changes What They Say: Platform Conditions Climate Attention and Framing” [__Under Review__]
-  - 3. __Tai, Yuehong Cassandra__ and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revise & Resubmit__]
-  - 2. Yu, Dong Erico, and __Yuehong Cassandra Tai__. “Speak ‘As Good As Men’? An Empirical Study of Gender Variation in Chinese Courtroom Audio” [__Revised & Resubmitted__]
+  - 4.  Ko, Hyein, __Yuehong Cassandra Tai__, and Nora Webb Williams __"From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation"__ [__Co–lead Author__] [__Under Review__]
+  - 3. __Tai, Yuehong Cassandra__, Xun Cao, Yu-Ru Lin, and Bruce A. Desmarais. “Where Legislators Speak Changes What They Say: Platform Conditions Climate Attention and Framing” [__Under Review__]
+  - 2. __Tai, Yuehong Cassandra__ and Frederick Solt. “Trust in Civil Servants: A Cross-National Dataset for Public Policy Research, 1986–2022” [__Revised & Resubmitted__]
   - 1. Ma, Haofeng, Jeongho Choi, __Yuehong Cassandra Tai__, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries” [__Revised & Resubmitted__]
 
 # WORKS IN PROGRESS 
 * __AI and Computational Social Science__
-   - 7. "Traceable Codebook-Grounded Annotation with Large Language Models" (Qunhua Li)
-   - 6. "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation" (with Hyein Ko and Nora Webb Williams) [__Co–lead Author__]
+   - 6. __"Traceable Codebook-Grounded Annotation with Large Language Models"__ (Qunhua Li)
    - 5. "Who Speaks for AI? Local News Papers and AI Policy News Frames" (with Hyein Ko)
    - 4. “Understanding Asian Hate in State Legislatures: An Electoral Connection” (with Issac Michael Pollert, Nitheesha Nakka, and Lingyu Jack Fuca) [__Lead Author__]
    - 3. “Large Language Models in Social Science: A Literature Review of LLMs and GenAI in Political Science and Communication” (with Pooja Iyer)
 * __Public Opinion__
    + 2. “How Does Public Opinion Affect Climate Change Policies?” (with Xun Cao and Fred Solt) [__Lead Author__]
    + 1. “Surfing Waves or Making Waves? Declining Trust in Democracy and Election of Personalist Leaders” (with Jia Li and M. Rosemary Pang) 
-   
-# GRANTS
-- Center for Socially Responsible Artificial Intelligence, “Transparent and Reproducible AI-assisted Annotation for Social Data: A Multi-Agent framework,” effective Dec 20, 2025 and expires June 30, 2027. Co-PI, Qunhua Li. $25,000.
 
 # CONFERENCE PRESENTATIONS
 - "From Annotation to Oversight: A Pipeline Approach to GenAI Evaluation"
@@ -146,27 +147,10 @@ Scandal.”
   - Southern Political Science Association Conference  \hfill  Jan 2020
 
 # TEACHING EXPERIENCE
-* __Method Courses__
-  - __Instructor, Penn State University__
-   - C-SoDA Research Practicum: AI and Multimodal data (Undergraduate Level) \hfill Spring 2026
-  - __Instructor, Penn State University__
-   - C-SoDA Research Practicum: AI and Governance (Undergraduate Level) \hfill Fall 2025
-  - __Instructor, Penn State University__
-   - PLSC 10: Scientific Study of Politics (Undergraduate Level) \hfill Fall 2024
-  - Instructor, Penn State University
-   - PLSC 308: Introduction to Political Research (Undergraduate Level) \hfill Spring 2024
-  - Instructor, Penn State University
-   - SoDA 308: Research Design for Social Data Analytics (Undergraduate Level) \hfill Fall 2023
-  - __Independent Instructor, University of Iowa__
-   - Hawkeye Poll (Undergraduate Level) \hfill Spring 2022
-    - Guided students to design survey questions on both national and local politics, carry out telephone interviews,analyze and interpret data, and write release press and analytical papers.
-  - __Teaching Assistant, University of Michigan__
-   - Bayesian Modeling for the Social Sciences II: Advanced Topics, ICPSR Program, \hfill Summer 2021
-    - Graded students’ assignments with detailed comments and offered one-on-one consultations on students’ individual projects.
 
 * __Invited Talk and Guest Lecture__
   - __Guest Speaker, Penn State University__
-   - Social Science Research Institute Open House (Scheduled)  \hfill Fall 2025
+   - Social Science Research Institute Open House  \hfill Fall 2025
      - Hands-On with AI: Evaluating and Applying Models for Social Science Data
   - __Guest Speaker, Penn State University__
    - Social Science Research Institute Open House (Open to Faculty Members in SSRI) \hfill Spring 2025
@@ -195,6 +179,24 @@ Scandal.”
   - __Workshop, East China Normal University, Shanghai__
    - Introduction to Python (Graduate Level) \hfill Dec 2020
      - Web scraping, social media data wrangling and analysis
+    
+* __Method Courses__
+  - __Instructor, Penn State University__
+   - C-SoDA Research Practicum: AI and Multimodal data (Undergraduate Level) \hfill Spring 2026
+  - __Instructor, Penn State University__
+   - C-SoDA Research Practicum: AI and Governance (Undergraduate Level) \hfill Fall 2025
+  - __Instructor, Penn State University__
+   - PLSC 10: Scientific Study of Politics (Undergraduate Level) \hfill Fall 2024
+  - Instructor, Penn State University
+   - PLSC 308: Introduction to Political Research (Undergraduate Level) \hfill Spring 2024
+  - Instructor, Penn State University
+   - SoDA 308: Research Design for Social Data Analytics (Undergraduate Level) \hfill Fall 2023
+  - __Independent Instructor, University of Iowa__
+   - Hawkeye Poll (Undergraduate Level) \hfill Spring 2022
+    - Guided students to design survey questions on both national and local politics, carry out telephone interviews,analyze and interpret data, and write release press and analytical papers.
+  - __Teaching Assistant, University of Michigan__
+   - Bayesian Modeling for the Social Sciences II: Advanced Topics, ICPSR Program, \hfill Summer 2021
+    - Graded students’ assignments with detailed comments and offered one-on-one consultations on students’ individual projects.
   
 * __Comparative Politics and American Politics Courses__
    - Teaching Assistant, University of Iowa
